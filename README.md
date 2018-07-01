@@ -8,3 +8,6 @@ Final Project Andela Learning Community
 ## Author
 
 * **Nathan Getachew ** - *Initial work* - (https://github.com/Nathan-G1)
+## apk
+** Use the circle button to start your diary
+** Long press on your saved diaries to update or delete
